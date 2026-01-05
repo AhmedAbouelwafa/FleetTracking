@@ -1,0 +1,16 @@
+C:\Users\hamad\source\repos\FleetTracking\FleetTracking.Application\bin\Debug\net9.0\FleetTracking.Application.deps.json
+C:\Users\hamad\source\repos\FleetTracking\FleetTracking.Application\bin\Debug\net9.0\FleetTracking.Application.dll
+C:\Users\hamad\source\repos\FleetTracking\FleetTracking.Application\bin\Debug\net9.0\FleetTracking.Application.pdb
+C:\Users\hamad\source\repos\FleetTracking\FleetTracking.Application\bin\Debug\net9.0\FleetTracking.Core.dll
+C:\Users\hamad\source\repos\FleetTracking\FleetTracking.Application\bin\Debug\net9.0\FleetTracking.Core.pdb
+C:\Users\hamad\source\repos\FleetTracking\FleetTracking.Application\obj\Debug\net9.0\FleetTracking.Application.csproj.AssemblyReference.cache
+C:\Users\hamad\source\repos\FleetTracking\FleetTracking.Application\obj\Debug\net9.0\FleetTracking.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hamad\source\repos\FleetTracking\FleetTracking.Application\obj\Debug\net9.0\FleetTracking.Application.AssemblyInfoInputs.cache
+C:\Users\hamad\source\repos\FleetTracking\FleetTracking.Application\obj\Debug\net9.0\FleetTracking.Application.AssemblyInfo.cs
+C:\Users\hamad\source\repos\FleetTracking\FleetTracking.Application\obj\Debug\net9.0\FleetTracking.Application.csproj.CoreCompileInputs.cache
+C:\Users\hamad\source\repos\FleetTracking\FleetTracking.Application\obj\Debug\net9.0\FleetTracking.Application.sourcelink.json
+C:\Users\hamad\source\repos\FleetTracking\FleetTracking.Application\obj\Debug\net9.0\FleetTra.293772FE.Up2Date
+C:\Users\hamad\source\repos\FleetTracking\FleetTracking.Application\obj\Debug\net9.0\FleetTracking.Application.dll
+C:\Users\hamad\source\repos\FleetTracking\FleetTracking.Application\obj\Debug\net9.0\refint\FleetTracking.Application.dll
+C:\Users\hamad\source\repos\FleetTracking\FleetTracking.Application\obj\Debug\net9.0\FleetTracking.Application.pdb
+C:\Users\hamad\source\repos\FleetTracking\FleetTracking.Application\obj\Debug\net9.0\ref\FleetTracking.Application.dll
