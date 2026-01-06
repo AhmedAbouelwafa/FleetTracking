@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\hamad\\source\\repos\\FleetTracking\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A38043C4-C256-487E-8085-83C3A2D2CD4C}|FleetTracking.API\\FleetTracking.API.csproj|c:\\users\\hamad\\source\\repos\\fleettracking\\fleettracking.api\\controllers\\vehiclecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A38043C4-C256-487E-8085-83C3A2D2CD4C}|FleetTracking.API\\FleetTracking.API.csproj|solutionrelative:fleettracking.api\\controllers\\vehiclecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A38043C4-C256-487E-8085-83C3A2D2CD4C}|FleetTracking.API\\FleetTracking.API.csproj|c:\\users\\hamad\\source\\repos\\fleettracking\\fleettracking.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A38043C4-C256-487E-8085-83C3A2D2CD4C}|FleetTracking.API\\FleetTracking.API.csproj|solutionrelative:fleettracking.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A38043C4-C256-487E-8085-83C3A2D2CD4C}|FleetTracking.API\\FleetTracking.API.csproj|c:\\users\\hamad\\source\\repos\\fleettracking\\fleettracking.api\\services\\signalrnotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A38043C4-C256-487E-8085-83C3A2D2CD4C}|FleetTracking.API\\FleetTracking.API.csproj|solutionrelative:fleettracking.api\\services\\signalrnotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,16 +19,8 @@
       "RelativeMoniker": "D:0:0:{A38043C4-C256-487E-8085-83C3A2D2CD4C}|FleetTracking.API\\FleetTracking.API.csproj|solutionrelative:fleettracking.api\\hubs\\vehiclehub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A38043C4-C256-487E-8085-83C3A2D2CD4C}|FleetTracking.API\\FleetTracking.API.csproj|c:\\users\\hamad\\source\\repos\\fleettracking\\fleettracking.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A38043C4-C256-487E-8085-83C3A2D2CD4C}|FleetTracking.API\\FleetTracking.API.csproj|solutionrelative:fleettracking.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4E994693-4579-4D60-9451-68929A88734A}|FleetTracking.Application\\FleetTracking.Application.csproj|c:\\users\\hamad\\source\\repos\\fleettracking\\fleettracking.application\\services\\vehicleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4E994693-4579-4D60-9451-68929A88734A}|FleetTracking.Application\\FleetTracking.Application.csproj|solutionrelative:fleettracking.application\\services\\vehicleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A38043C4-C256-487E-8085-83C3A2D2CD4C}|FleetTracking.API\\FleetTracking.API.csproj|c:\\users\\hamad\\source\\repos\\fleettracking\\fleettracking.api\\controllers\\vehiclecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A38043C4-C256-487E-8085-83C3A2D2CD4C}|FleetTracking.API\\FleetTracking.API.csproj|solutionrelative:fleettracking.api\\controllers\\vehiclecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{08528069-FD56-4BA0-B79D-228D19DCDBE2}|FleetTracking.Infrastructure\\FleetTracking.Infrastructure.csproj|c:\\users\\hamad\\source\\repos\\fleettracking\\fleettracking.infrastructure\\data\\dataseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -142,7 +142,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -166,32 +166,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "SignalRNotificationService.cs",
               "DocumentMoniker": "C:\\Users\\hamad\\source\\repos\\FleetTracking\\FleetTracking.API\\Services\\SignalRNotificationService.cs",
               "RelativeDocumentMoniker": "FleetTracking.API\\Services\\SignalRNotificationService.cs",
               "ToolTip": "C:\\Users\\hamad\\source\\repos\\FleetTracking\\FleetTracking.API\\Services\\SignalRNotificationService.cs",
               "RelativeToolTip": "FleetTracking.API\\Services\\SignalRNotificationService.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-05T14:57:23.855Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "VehicleHub.cs",
-              "DocumentMoniker": "C:\\Users\\hamad\\source\\repos\\FleetTracking\\FleetTracking.API\\Hubs\\VehicleHub.cs",
-              "RelativeDocumentMoniker": "FleetTracking.API\\Hubs\\VehicleHub.cs",
-              "ToolTip": "C:\\Users\\hamad\\source\\repos\\FleetTracking\\FleetTracking.API\\Hubs\\VehicleHub.cs",
-              "RelativeToolTip": "FleetTracking.API\\Hubs\\VehicleHub.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-05T14:57:15.095Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "VehicleService.cs",
               "DocumentMoniker": "C:\\Users\\hamad\\source\\repos\\FleetTracking\\FleetTracking.Application\\Services\\VehicleService.cs",
               "RelativeDocumentMoniker": "FleetTracking.Application\\Services\\VehicleService.cs",
@@ -203,15 +191,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "VehicleController.cs",
               "DocumentMoniker": "C:\\Users\\hamad\\source\\repos\\FleetTracking\\FleetTracking.API\\Controllers\\VehicleController.cs",
               "RelativeDocumentMoniker": "FleetTracking.API\\Controllers\\VehicleController.cs",
               "ToolTip": "C:\\Users\\hamad\\source\\repos\\FleetTracking\\FleetTracking.API\\Controllers\\VehicleController.cs",
               "RelativeToolTip": "FleetTracking.API\\Controllers\\VehicleController.cs",
-              "ViewState": "AgIAAG8AAAAAAAAAAAAswAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAGEAAAAAAAAAAAA2wGwAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-05T14:39:28.452Z"
+              "WhenOpened": "2026-01-05T14:39:28.452Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -239,6 +228,31 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hamad\\source\\repos\\FleetTracking\\FleetTracking.API\\Program.cs",
+              "RelativeDocumentMoniker": "FleetTracking.API\\Program.cs",
+              "ToolTip": "C:\\Users\\hamad\\source\\repos\\FleetTracking\\FleetTracking.API\\Program.cs",
+              "RelativeToolTip": "FleetTracking.API\\Program.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAAADwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T14:20:20.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VehicleHub.cs",
+              "DocumentMoniker": "C:\\Users\\hamad\\source\\repos\\FleetTracking\\FleetTracking.API\\Hubs\\VehicleHub.cs",
+              "RelativeDocumentMoniker": "FleetTracking.API\\Hubs\\VehicleHub.cs",
+              "ToolTip": "C:\\Users\\hamad\\source\\repos\\FleetTracking\\FleetTracking.API\\Hubs\\VehicleHub.cs",
+              "RelativeToolTip": "FleetTracking.API\\Hubs\\VehicleHub.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T14:57:15.095Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 8,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\hamad\\source\\repos\\FleetTracking\\FleetTracking.API\\Properties\\launchSettings.json",
@@ -248,18 +262,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2026-01-05T14:21:19.226Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\hamad\\source\\repos\\FleetTracking\\FleetTracking.API\\Program.cs",
-              "RelativeDocumentMoniker": "FleetTracking.API\\Program.cs",
-              "ToolTip": "C:\\Users\\hamad\\source\\repos\\FleetTracking\\FleetTracking.API\\Program.cs",
-              "RelativeToolTip": "FleetTracking.API\\Program.cs",
-              "ViewState": "AgIAADMAAAAAAAAAAAAmwD8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-05T14:20:20.34Z"
             },
             {
               "$type": "Document",
