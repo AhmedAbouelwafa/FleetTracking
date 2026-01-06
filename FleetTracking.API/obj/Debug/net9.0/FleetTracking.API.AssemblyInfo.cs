@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FleetTracking.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+da14b86f6599fe4379d2b65b05e868b155a1bbff")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6a484ad328e46cee0fb32a8a825fe81883c92063")]
 [assembly: System.Reflection.AssemblyProductAttribute("FleetTracking.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FleetTracking.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

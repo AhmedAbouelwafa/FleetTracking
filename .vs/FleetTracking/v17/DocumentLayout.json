@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\hamad\\source\\repos\\FleetTracking\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A38043C4-C256-487E-8085-83C3A2D2CD4C}|FleetTracking.API\\FleetTracking.API.csproj|c:\\users\\hamad\\source\\repos\\fleettracking\\fleettracking.api\\controllers\\vehiclecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A38043C4-C256-487E-8085-83C3A2D2CD4C}|FleetTracking.API\\FleetTracking.API.csproj|solutionrelative:fleettracking.api\\controllers\\vehiclecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A38043C4-C256-487E-8085-83C3A2D2CD4C}|FleetTracking.API\\FleetTracking.API.csproj|c:\\users\\hamad\\source\\repos\\fleettracking\\fleettracking.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A38043C4-C256-487E-8085-83C3A2D2CD4C}|FleetTracking.API\\FleetTracking.API.csproj|solutionrelative:fleettracking.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A38043C4-C256-487E-8085-83C3A2D2CD4C}|FleetTracking.API\\FleetTracking.API.csproj|c:\\users\\hamad\\source\\repos\\fleettracking\\fleettracking.api\\controllers\\vehiclecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A38043C4-C256-487E-8085-83C3A2D2CD4C}|FleetTracking.API\\FleetTracking.API.csproj|solutionrelative:fleettracking.api\\controllers\\vehiclecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A38043C4-C256-487E-8085-83C3A2D2CD4C}|FleetTracking.API\\FleetTracking.API.csproj|c:\\users\\hamad\\source\\repos\\fleettracking\\fleettracking.api\\services\\signalrnotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -166,6 +166,45 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "VehicleService.cs",
+              "DocumentMoniker": "C:\\Users\\hamad\\source\\repos\\FleetTracking\\FleetTracking.Application\\Services\\VehicleService.cs",
+              "RelativeDocumentMoniker": "FleetTracking.Application\\Services\\VehicleService.cs",
+              "ToolTip": "C:\\Users\\hamad\\source\\repos\\FleetTracking\\FleetTracking.Application\\Services\\VehicleService.cs",
+              "RelativeToolTip": "FleetTracking.Application\\Services\\VehicleService.cs",
+              "ViewState": "AgIAAHgAAAAAAAAAAAAUwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T14:41:52.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VehicleController.cs",
+              "DocumentMoniker": "C:\\Users\\hamad\\source\\repos\\FleetTracking\\FleetTracking.API\\Controllers\\VehicleController.cs",
+              "RelativeDocumentMoniker": "FleetTracking.API\\Controllers\\VehicleController.cs",
+              "ToolTip": "C:\\Users\\hamad\\source\\repos\\FleetTracking\\FleetTracking.API\\Controllers\\VehicleController.cs",
+              "RelativeToolTip": "FleetTracking.API\\Controllers\\VehicleController.cs",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAUwGwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T14:39:28.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hamad\\source\\repos\\FleetTracking\\FleetTracking.API\\Program.cs",
+              "RelativeDocumentMoniker": "FleetTracking.API\\Program.cs",
+              "ToolTip": "C:\\Users\\hamad\\source\\repos\\FleetTracking\\FleetTracking.API\\Program.cs",
+              "RelativeToolTip": "FleetTracking.API\\Program.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAACUAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T14:20:20.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
               "Title": "SignalRNotificationService.cs",
               "DocumentMoniker": "C:\\Users\\hamad\\source\\repos\\FleetTracking\\FleetTracking.API\\Services\\SignalRNotificationService.cs",
@@ -179,31 +218,6 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "VehicleService.cs",
-              "DocumentMoniker": "C:\\Users\\hamad\\source\\repos\\FleetTracking\\FleetTracking.Application\\Services\\VehicleService.cs",
-              "RelativeDocumentMoniker": "FleetTracking.Application\\Services\\VehicleService.cs",
-              "ToolTip": "C:\\Users\\hamad\\source\\repos\\FleetTracking\\FleetTracking.Application\\Services\\VehicleService.cs",
-              "RelativeToolTip": "FleetTracking.Application\\Services\\VehicleService.cs",
-              "ViewState": "AgIAAHcAAAAAAAAAAAA2wAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-05T14:41:52.215Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "VehicleController.cs",
-              "DocumentMoniker": "C:\\Users\\hamad\\source\\repos\\FleetTracking\\FleetTracking.API\\Controllers\\VehicleController.cs",
-              "RelativeDocumentMoniker": "FleetTracking.API\\Controllers\\VehicleController.cs",
-              "ToolTip": "C:\\Users\\hamad\\source\\repos\\FleetTracking\\FleetTracking.API\\Controllers\\VehicleController.cs",
-              "RelativeToolTip": "FleetTracking.API\\Controllers\\VehicleController.cs",
-              "ViewState": "AgIAAGEAAAAAAAAAAAA2wGwAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-05T14:39:28.452Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 32,
               "Title": "20260105143429_INIT.cs",
               "DocumentMoniker": "C:\\Users\\hamad\\source\\repos\\FleetTracking\\FleetTracking.Infrastructure\\Migrations\\20260105143429_INIT.cs",
@@ -212,7 +226,8 @@
               "RelativeToolTip": "FleetTracking.Infrastructure\\Migrations\\20260105143429_INIT.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-05T14:34:30.327Z"
+              "WhenOpened": "2026-01-05T14:34:30.327Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -224,19 +239,7 @@
               "RelativeToolTip": "FleetTracking.API\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-01-05T14:21:52.49Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\hamad\\source\\repos\\FleetTracking\\FleetTracking.API\\Program.cs",
-              "RelativeDocumentMoniker": "FleetTracking.API\\Program.cs",
-              "ToolTip": "C:\\Users\\hamad\\source\\repos\\FleetTracking\\FleetTracking.API\\Program.cs",
-              "RelativeToolTip": "FleetTracking.API\\Program.cs",
-              "ViewState": "AgIAAC8AAAAAAAAAAAAAADwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-05T14:20:20.34Z",
+              "WhenOpened": "2026-01-05T14:21:52.49Z",
               "EditorCaption": ""
             },
             {
@@ -249,7 +252,8 @@
               "RelativeToolTip": "FleetTracking.API\\Hubs\\VehicleHub.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-05T14:57:15.095Z"
+              "WhenOpened": "2026-01-05T14:57:15.095Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -261,7 +265,8 @@
               "RelativeToolTip": "FleetTracking.API\\Properties\\launchSettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-01-05T14:21:19.226Z"
+              "WhenOpened": "2026-01-05T14:21:19.226Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -273,7 +278,8 @@
               "RelativeToolTip": "FleetTracking.Infrastructure\\Context\\ApplicationDbContext.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAAUwBcAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-05T12:41:42.686Z"
+              "WhenOpened": "2026-01-05T12:41:42.686Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -283,9 +289,10 @@
               "RelativeDocumentMoniker": "FleetTracking.Infrastructure\\Data\\DataSeeder.cs",
               "ToolTip": "C:\\Users\\hamad\\source\\repos\\FleetTracking\\FleetTracking.Infrastructure\\Data\\DataSeeder.cs",
               "RelativeToolTip": "FleetTracking.Infrastructure\\Data\\DataSeeder.cs",
-              "ViewState": "AgIAAFMAAAAAAAAAAAAAAMQAAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAAFAAAAAAAAAAAIBJwMQAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-05T12:45:35.149Z"
+              "WhenOpened": "2026-01-05T12:45:35.149Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -297,7 +304,8 @@
               "RelativeToolTip": "FleetTracking.Application\\Features\\Vehicle\\Validators\\GetVehiclesNearbyRequestValidator.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAQwBUAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-05T14:16:31.84Z"
+              "WhenOpened": "2026-01-05T14:16:31.84Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -309,7 +317,8 @@
               "RelativeToolTip": "FleetTracking.Application\\Features\\Vehicle\\Validators\\GetVehiclesQueryValidator.cs",
               "ViewState": "AgIAABYAAAAAAAAAAAAQwCUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-05T14:16:10.105Z"
+              "WhenOpened": "2026-01-05T14:16:10.105Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -321,7 +330,8 @@
               "RelativeToolTip": "FleetTracking.Application\\Features\\Vehicle\\Validators\\VehicleLocationDtoValidator.cs",
               "ViewState": "AgIAABMAAAAAAAAAAAAgwC0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-05T14:14:38.312Z"
+              "WhenOpened": "2026-01-05T14:14:38.312Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -333,7 +343,8 @@
               "RelativeToolTip": "FleetTracking.Application\\Features\\Vehicle\\Validators\\UpdateVehicleRequestValidator.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAqwCEAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-05T14:14:06.979Z"
+              "WhenOpened": "2026-01-05T14:14:06.979Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -345,7 +356,8 @@
               "RelativeToolTip": "FleetTracking.Application\\Features\\Vehicle\\Validators\\CreateVehicleRequestValidator.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAxwCAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-05T13:55:13.994Z"
+              "WhenOpened": "2026-01-05T13:55:13.994Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -355,9 +367,10 @@
               "RelativeDocumentMoniker": "FleetTracking.Application\\Features\\Vehicle\\Mapping\\VehicleMappingProfile.cs",
               "ToolTip": "C:\\Users\\hamad\\source\\repos\\FleetTracking\\FleetTracking.Application\\Features\\Vehicle\\Mapping\\VehicleMappingProfile.cs",
               "RelativeToolTip": "FleetTracking.Application\\Features\\Vehicle\\Mapping\\VehicleMappingProfile.cs",
-              "ViewState": "AgIAADEAAAAAAAAAAAAAAEMAAAA9AAAAAAAAAA==",
+              "ViewState": "AgIAAC4AAAAAAAAAAIBJwEMAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-05T13:30:18.332Z"
+              "WhenOpened": "2026-01-05T13:30:18.332Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -367,9 +380,10 @@
               "RelativeDocumentMoniker": "FleetTracking.Application\\Features\\Vehicle\\Responses\\DashboardStatsResponse.cs",
               "ToolTip": "C:\\Users\\hamad\\source\\repos\\FleetTracking\\FleetTracking.Application\\Features\\Vehicle\\Responses\\DashboardStatsResponse.cs",
               "RelativeToolTip": "FleetTracking.Application\\Features\\Vehicle\\Responses\\DashboardStatsResponse.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAHAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwAoAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-05T13:28:36.442Z"
+              "WhenOpened": "2026-01-05T13:28:36.442Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -381,7 +395,8 @@
               "RelativeToolTip": "FleetTracking.Application\\Features\\Vehicle\\Responses\\VehicleDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-05T13:27:58.743Z"
+              "WhenOpened": "2026-01-05T13:27:58.743Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -393,7 +408,8 @@
               "RelativeToolTip": "FleetTracking.Core\\Entites\\Models\\Vehicle.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-05T12:16:22.25Z"
+              "WhenOpened": "2026-01-05T12:16:22.25Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -405,7 +421,8 @@
               "RelativeToolTip": "FleetTracking.Core\\Entites\\Base\\Entity.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-05T12:11:25.409Z"
+              "WhenOpened": "2026-01-05T12:11:25.409Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -417,7 +434,8 @@
               "RelativeToolTip": "FleetTracking.Core\\Enums\\VehicleStatus.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-05T12:28:56.545Z"
+              "WhenOpened": "2026-01-05T12:28:56.545Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -429,7 +447,8 @@
               "RelativeToolTip": "FleetTracking.Application\\Features\\Vehicle\\Responses\\VehicleListResponse.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-05T13:27:21.352Z"
+              "WhenOpened": "2026-01-05T13:27:21.352Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -441,7 +460,8 @@
               "RelativeToolTip": "FleetTracking.Application\\Features\\Vehicle\\Requests\\GetVehiclesNearbyRequest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-05T13:26:52.838Z"
+              "WhenOpened": "2026-01-05T13:26:52.838Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -453,7 +473,8 @@
               "RelativeToolTip": "FleetTracking.Application\\Features\\Vehicle\\Requests\\GetVehiclesQuery.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-05T13:25:40.617Z"
+              "WhenOpened": "2026-01-05T13:25:40.617Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -465,7 +486,8 @@
               "RelativeToolTip": "FleetTracking.Application\\Features\\Vehicle\\Requests\\UpdateVehicleRequest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-05T13:25:17.065Z"
+              "WhenOpened": "2026-01-05T13:25:17.065Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -477,7 +499,8 @@
               "RelativeToolTip": "FleetTracking.Application\\Features\\Vehicle\\Requests\\CreateVehicleRequest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-05T13:25:01.141Z"
+              "WhenOpened": "2026-01-05T13:25:01.141Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -489,7 +512,8 @@
               "RelativeToolTip": "FleetTracking.Application\\Features\\Vehicle\\Requests\\VehicleLocationDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-05T13:23:14.617Z"
+              "WhenOpened": "2026-01-05T13:23:14.617Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -501,7 +525,8 @@
               "RelativeToolTip": "FleetTracking.Application\\ResponseHandler\\ApiResponseHandler.cs",
               "ViewState": "AgIAAJAAAAAAAAAAAAAQwKEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-05T13:08:50.233Z"
+              "WhenOpened": "2026-01-05T13:08:50.233Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -511,9 +536,10 @@
               "RelativeDocumentMoniker": "FleetTracking.Application\\ResponseHandler\\ApiResponse.cs",
               "ToolTip": "C:\\Users\\hamad\\source\\repos\\FleetTracking\\FleetTracking.Application\\ResponseHandler\\ApiResponse.cs",
               "RelativeToolTip": "FleetTracking.Application\\ResponseHandler\\ApiResponse.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAzwCgAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAuwCgAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-05T13:08:38.775Z"
+              "WhenOpened": "2026-01-05T13:08:38.775Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -525,7 +551,8 @@
               "RelativeToolTip": "FleetTracking.Core\\Interfaces\\ApiResponse\\IApiResponse.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-05T13:07:30.29Z"
+              "WhenOpened": "2026-01-05T13:07:30.29Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -537,7 +564,8 @@
               "RelativeToolTip": "FleetTracking.Infrastructure\\Configurations\\VehicleConfiguration.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAiwA8AAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-05T13:03:55.74Z"
+              "WhenOpened": "2026-01-05T13:03:55.74Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -549,7 +577,8 @@
               "RelativeToolTip": "FleetTracking.Infrastructure\\Repositories\\VehicleRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-05T12:57:33.172Z"
+              "WhenOpened": "2026-01-05T12:57:33.172Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -559,9 +588,10 @@
               "RelativeDocumentMoniker": "FleetTracking.Core\\Interfaces\\Repositories\\IVehicleRepository.cs",
               "ToolTip": "C:\\Users\\hamad\\source\\repos\\FleetTracking\\FleetTracking.Core\\Interfaces\\Repositories\\IVehicleRepository.cs",
               "RelativeToolTip": "FleetTracking.Core\\Interfaces\\Repositories\\IVehicleRepository.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAA0wCQAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAwwCQAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-05T12:56:46.005Z"
+              "WhenOpened": "2026-01-05T12:56:46.005Z",
+              "EditorCaption": ""
             }
           ]
         }

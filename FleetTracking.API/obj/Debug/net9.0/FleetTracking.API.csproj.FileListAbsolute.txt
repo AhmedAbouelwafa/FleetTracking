@@ -176,3 +176,5 @@ C:\Users\hamad\source\repos\FleetTracking\FleetTracking.API\obj\Debug\net9.0\ref
 C:\Users\hamad\source\repos\FleetTracking\FleetTracking.API\obj\Debug\net9.0\FleetTracking.API.pdb
 C:\Users\hamad\source\repos\FleetTracking\FleetTracking.API\obj\Debug\net9.0\FleetTracking.API.genruntimeconfig.cache
 C:\Users\hamad\source\repos\FleetTracking\FleetTracking.API\obj\Debug\net9.0\ref\FleetTracking.API.dll
+C:\Users\hamad\source\repos\FleetTracking\FleetTracking.API\bin\Debug\net9.0\Npgsql.dll
+C:\Users\hamad\source\repos\FleetTracking\FleetTracking.API\bin\Debug\net9.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
