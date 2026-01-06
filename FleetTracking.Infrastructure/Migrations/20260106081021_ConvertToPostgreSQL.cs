@@ -1,5 +1,6 @@
 ﻿using System;
 using Microsoft.EntityFrameworkCore.Migrations;
+using Npgsql.EntityFrameworkCore.PostgreSQL.Metadata;
 
 #nullable disable
 
@@ -8,7 +9,7 @@ using Microsoft.EntityFrameworkCore.Migrations;
 namespace FleetTracking.Infrastructure.Migrations
 {
     /// <inheritdoc />
-    public partial class INIT : Migration
+    public partial class ConvertToPostgreSQL : Migration
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)
@@ -17,20 +18,20 @@ namespace FleetTracking.Infrastructure.Migrations
                 name: "Vehicles",
                 columns: table => new
                 {
-                    Id = table.Column<int>(type: "int", nullable: false)
-                        .Annotation("SqlServer:Identity", "1, 1"),
-                    PlateNumber = table.Column<string>(type: "nvarchar(450)", nullable: false),
-                    DriverName = table.Column<string>(type: "nvarchar(max)", nullable: false),
-                    LastLatitude = table.Column<double>(type: "float", nullable: true),
-                    LastLongitude = table.Column<double>(type: "float", nullable: true),
-                    LastSpeed = table.Column<double>(type: "float", nullable: true),
-                    LastHeading = table.Column<double>(type: "float", nullable: true),
-                    LastUpdatedAt = table.Column<DateTime>(type: "datetime2", nullable: true),
-                    Status = table.Column<int>(type: "int", nullable: false),
-                    CreatedAt = table.Column<DateTime>(type: "datetime2", nullable: false),
-                    UpdatedAt = table.Column<DateTime>(type: "datetime2", nullable: false),
-                    IsDeleted = table.Column<bool>(type: "bit", nullable: false),
-                    IsActive = table.Column<bool>(type: "bit", nullable: false)
+                    Id = table.Column<int>(type: "integer", nullable: false)
+                        .Annotation("Npgsql:ValueGenerationStrategy", NpgsqlValueGenerationStrategy.IdentityByDefaultColumn),
+                    PlateNumber = table.Column<string>(type: "text", nullable: false),
+                    DriverName = table.Column<string>(type: "text", nullable: false),
+                    LastLatitude = table.Column<double>(type: "double precision", nullable: true),
+                    LastLongitude = table.Column<double>(type: "double precision", nullable: true),
+                    LastSpeed = table.Column<double>(type: "double precision", nullable: true),
+                    LastHeading = table.Column<double>(type: "double precision", nullable: true),
+                    LastUpdatedAt = table.Column<DateTime>(type: "timestamp with time zone", nullable: true),
+                    Status = table.Column<int>(type: "integer", nullable: false),
+                    CreatedAt = table.Column<DateTime>(type: "timestamp with time zone", nullable: false),
+                    UpdatedAt = table.Column<DateTime>(type: "timestamp with time zone", nullable: false),
+                    IsDeleted = table.Column<bool>(type: "boolean", nullable: false),
+                    IsActive = table.Column<bool>(type: "boolean", nullable: false)
                 },
                 constraints: table =>
                 {
