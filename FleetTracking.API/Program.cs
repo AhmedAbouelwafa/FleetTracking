@@ -40,6 +40,9 @@ namespace FleetTracking.API
             // Notification Service
             builder.Services.AddScoped<IVehicleNotificationService, SignalRNotificationService>();
 
+            // Simulator Service
+            builder.Services.AddHostedService<LocationSimulatorService>();
+
             // 5. Swagger
             builder.Services.AddEndpointsApiExplorer();
             builder.Services.AddSwaggerGen(options =>
